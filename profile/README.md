@@ -71,7 +71,6 @@ Clique [aqui](https://eu.SouJava.org.br/) e seja um associado anual do SouJava!
 
 Medias oficiais da comunidade SouJava:
 - [Site](http://SouJava.org.br)
-- [Slack](http://javadevbr.herokuapp.com/)
 - [Youtube](https://youtube.com/SouJava)
 - [Twitter](https://twitter.com/SouJava)
 - [Telegram](https://t.me/SouJavabr)
