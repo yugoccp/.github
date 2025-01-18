@@ -17,7 +17,7 @@ Aqui você fica sabendo de todos os eventos e talks presenciais e virtuais promo
 - [Nossas redes sociais](#nossas-redes-sociais)
 
 
-#### Eventos SouJava
+## Eventos SouJava
 
 Acompanhe os próximos eventos/talks do SouJava no [Meetup](https://www.meetup.com/SouJava/) e também nas [nossas redes sociais](#nossas-redes-sociais).
 
